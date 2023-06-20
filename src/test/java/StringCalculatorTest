@@ -1,0 +1,16 @@
+public class StringCalculatorTest{
+
+
+@BeforeAll
+// initialize objects
+@AfterAll
+// discard objects
+
+// AssertTrue test that number is < 1000
+@Test
+
+// AssertTrue test that number is >=0
+
+}
+
+Sorry ran out of time.
